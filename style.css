@@ -40,11 +40,7 @@ header{
 
 }
 
-header img{
-    max-width: 100%;
-    width: 50px;
-    height: auto;
-}
+
 
 .logo{
     color: var(--text-color);
