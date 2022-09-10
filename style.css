@@ -40,6 +40,12 @@ header{
 
 }
 
+header img{
+    max-width: 100%;
+    width: 50px;
+    height: auto;
+}
+
 .logo{
     color: var(--text-color);
     font-size: 1.8rem;
@@ -52,7 +58,6 @@ span{
 
 section{
     padding: 120px;
-
 }
 
 .center{
